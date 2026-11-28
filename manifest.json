@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Mincraft Classic",
-  "start_url": "/",
+  "start_url": "https://arma2472.github.io/Mincraft-web.github.io/",
   "theme_color": "#ffffff",
   "icons": [
     {
@@ -23,8 +23,5 @@
       "is256x256": false,
       "is192x192": false
     }
-  ],
-  "categories": [
-    "games"
   ]
 }
