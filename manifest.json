@@ -11,7 +11,8 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://arma2472.github.io/Mincraft-web.github.io/1791913208196 (2) (1).jpg",
+      "src": "launchericon-512x512.png
+",
       "type": "image/jpeg",
       "sizes": "512x512",
       "isSquare": true,
