@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "Play the official Minecraft web in your browser for free!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "arma2472.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "arma2472.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://arma2472.github.io/Mincraft-web.github.io/1791913208196 (2) (1).jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "isSquare": true,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 512,
+      "is512x512": true,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "categories": [
+    "games"
+  ]
+}
